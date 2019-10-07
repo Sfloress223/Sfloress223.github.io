@@ -1,0 +1,26 @@
+<style>
+
+
+
+
+
+
+
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+    a:visited {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:link {
+  color: white;
+  background-color: grey;
+  text-decoration: none;
+}
+</style>

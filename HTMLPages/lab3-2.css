@@ -1,0 +1,49 @@
+<style>
+
+a:hover {
+  color: deepskyblue;
+  background-color: grey;
+  text-decoration: none;
+    
+}
+a:link{color: yellow}   
+a:visited{color: blue}
+
+
+
+
+
+body {
+  font-size: 14px ;
+  background-color:  #b2dfdb;
+  font-family: sans-serif;
+}
+
+header {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+h1 {
+  line-height: 75px;
+  background-color: #004d40;
+  color: #000000;
+}
+
+span {
+  
+  font-weight: bold;
+  color: #cc0000;
+}
+article {
+ 
+  padding: 5px;
+  background-color: #00796b;
+}
+
+
+
+
+
+</style>
