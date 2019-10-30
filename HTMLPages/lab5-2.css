@@ -1,0 +1,7 @@
+body{margin: 0px;background: #222}
+li{padding: 0px; list-style: none;position: relative; float: left; border-radius: 0 0 0 5px 5px;}
+.piano{ height: 330px; width: 550px; background-image:url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/187/vwood.png);border-radius: 20px; padding: 50px 50px 0px 50px; margin: 50px auto}
+
+ul .white{background-color: white;z-index: 1;margin-left: -1px;margin-right: 1px;border-left: 1px solid black;border-bottom: 1px solid black; height: 256px;width: 64px;}
+
+ul .black{margin: 0 -20px 0 -20px; z-index: 2;border: 1px solid black; border-radius: 0 0 3px 3px; background-color: black;height: 128em; width: 32px;}
